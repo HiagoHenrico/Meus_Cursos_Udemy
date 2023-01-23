@@ -1,0 +1,21 @@
+{
+  "name": "secao11",
+  "version": "1.0.0",
+  "description": "Aulas de JavaScript da Geek University",
+  "main": "index.js",
+  "author": "Hiago",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.2"
+  },
+  "scripts": {
+    "dev": "webpack-dev-server --mode=development",
+    "prod": "webpack --mode=production"
+  }
+}

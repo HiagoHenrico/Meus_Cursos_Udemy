@@ -1,0 +1,29 @@
+.btn-green{
+    background-color: green;
+    color: #FFF;
+    border-radius: 20px;
+}
+
+.btn-yellow{
+    background-color: yellow;
+    color: black;
+    border-radius: 20px;
+}
+
+.btn-blue{
+    background-color: blue;
+    color: #FFF;
+    border-radius: 20px;
+}
+
+.btn-orange{
+    background-color: orange;
+    color: #FFF;
+    border-radius: 20px;
+}
+
+.btn-red{
+    background-color: red;
+    color: #FFF;
+    border-radius: 20px;
+}
